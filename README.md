@@ -67,4 +67,6 @@ use case.
 
   - <https://www.nomtek.com/blog/lidar-scanner-research>
 
-
+- Scaniverse: an app using LIDAR.  (There are plenty of others, but this
+  one seems to be the most feature-rich)
+  <https://scaniverse.com/>
